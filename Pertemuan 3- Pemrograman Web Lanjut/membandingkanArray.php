@@ -1,15 +1,13 @@
 <?php
 
 $a =[
-    "first_name" => "Rangga",
-    "last_name" => "Arisandi"
+    "first_name" => "Chandra",
+    "last_name" => "Bachtiar"
 ];
 
 $b =[
-    "last_name" => "Arisandi",
-    "first_name" => "Rangga"
+    "last_name" => "Bachtiar",
+    "first_name" => "Chandra"
 ];
 
 var_dump($a == $b);
-
-?>

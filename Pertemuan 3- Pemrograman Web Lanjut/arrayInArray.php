@@ -1,8 +1,8 @@
 <?php
 
-$rangga = array(
-    "id" => "rangga",
-    "nama" => "Rangga Ari Sandi",
+$name = array(
+    "id" => "Chandra",
+    "nama" => "Bachtiar",
     "usia" => 22,
     "Alamat" =>[
         "kota" => "cirebon",
@@ -10,5 +10,4 @@ $rangga = array(
         "negara" => "indonesia"   
     ]
 );
-var_dump($rangga);
-?>
+var_dump($name);
