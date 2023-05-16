@@ -1,4 +1,5 @@
 <?php
+include_once("Config.php");
 
 require_once __DIR__ . "/../Entity/Product.php";
 require_once __DIR__ . "/../Repository/ProductRepository.php";
